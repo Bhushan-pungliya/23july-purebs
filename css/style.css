@@ -1,0 +1,94 @@
+.display-3{
+    font-size: 4.3rem;
+    font-weight: 200;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 60px;
+    color: rgba(255, 255, 0, 0.815);
+    margin-bottom: 10px;
+}
+strong{
+    font-weight: bold;
+    color: white;
+}
+p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btn-primary{
+    font-style: normal;
+    margin-right: 20px;
+    background-color: rgb(255, 238, 0);
+    color: black;
+}
+.btn-secondary{
+    background-color:rgba(255, 0, 0, 0.767);
+    color: white;
+    font-style: normal;
+
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .jumbotron{
+      background-color: rgba(0, 225, 255, 0.596);
+  }
+  .display-4{
+      color: rgba(255, 230, 0, 0.842);
+      text-align: center;
+      margin-top: 20px;
+      padding-bottom: 10px;
+  }
+.row{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.display-5{
+width: 1075px;
+height: 80px;
+background-color: gray;
+padding-top: 30px;
+font-size: xx-large;
+}
+.container-fluid{
+    width: 50%;
+}
+.form-group{
+    width: 45%;
+    margin-left: 27%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-tertiary{
+    width: 30%;
+    border-color: rgb(255, 187, 0);
+    margin-left: 35%;
+    height: 5%;
+    color: rgb(255, 187, 0);
+    padding-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: gray;
+
+    width: 1100px;
+    margin-left:150px;
+    margin-top: 50px;
+}
+.card{
+    margin-right: 60px;
+
+}
